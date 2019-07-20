@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from mitmproxy import proxy, options, ctx
 from mitmproxy.addons import default_addons
 from mitmproxy.master import Master
